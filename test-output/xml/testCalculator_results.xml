@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test2"
+           tests="9"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.021">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testvalid"
+                time="0.001"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="testvalid"
+                time="0.000"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="testvalid"
+                time="0.000"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="testinvalid"
+                time="0.003"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="testvalid"
+                time="0.000"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="test222"
+                time="0.000"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="testvalid"
+                time="0.001"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="test111"
+                time="0.000"
+                classname="testCalculator">
+            </testcase>
+            <testcase
+                name="testvalid"
+                time="0.016"
+                classname="testCalculator">
+            </testcase>
+</testsuite>
