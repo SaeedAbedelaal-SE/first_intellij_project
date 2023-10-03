@@ -36,7 +36,7 @@ public class testCalculator {
         softassert.assertEquals(result, expected);
         String methodName = new Object() {
         }.getClass().getEnclosingMethod().getName();
-        System.out.println(methodName + " caseofNums is : " + caseOFNums + "\n");
+        System.out.println(methodName + " caseOfNums is : " + caseOFNums + "\n");
     }
 
     @Test(dataProvider = "data2", expectedExceptions = ArithmeticException.class, priority = 1)
